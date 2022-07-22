@@ -1,7 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import AboutComponent from "./about";
-import { HashLink } from "react-router-hash-link";
 
 function Navbar() {
   return (
