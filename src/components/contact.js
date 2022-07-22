@@ -132,7 +132,7 @@ function Contact() {
                   </div>
                 </div>
               </div>
-
+              <br />{" "}
               <div className="text-center text-md-left">
                 <button
                   type="submit"
