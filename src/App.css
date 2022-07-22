@@ -1,7 +1,6 @@
 .App {
   overflow-x: hidden;
   width: 100%;
-  /* margin-top: 4%; */
 }
 
 .main-content {
@@ -55,7 +54,7 @@
 
 .top-section-left {
   padding: 0 20% 0 23%;
-  margin-top: 6%;
+  margin-top: 5%;
 }
 
 .profile-picture {
@@ -118,7 +117,7 @@
 
 .about-image {
   height: 52%;
-  width: 23%;
+  width: 25%;
   margin-left: -2%;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
@@ -154,13 +153,11 @@
   justify-content: space-around;
   align-items: center;
   padding: 0 10%;
-  /* justify-content: center; */
 }
 
 .stat-container {
   color: #fff;
   text-align: center;
-  /* border-right-style: solid; */
 }
 
 .stat-container h3 {
@@ -172,8 +169,6 @@
 }
 
 .projects figure {
-  /* display: inline-block; */
-
   width: 90%;
   border: 2px solid rgba(0, 0, 0, 0.05);
   border-radius: 10px;
@@ -212,7 +207,6 @@ figure:hover {
   width: 100%;
   border: 2px solid rgba(0, 0, 0, 0.05);
   border-radius: 10px;
-  /* margin-right: 5%; */
 }
 
 .progress-bar .bg-blue {
@@ -265,7 +259,6 @@ figcaption {
   display: flex;
   flex-direction: column;
   width: 40%;
-  /* filter: drop-shadow(0px 0.1px 0.3px black); */
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 
   background-color: #fff;

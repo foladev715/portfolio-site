@@ -7,6 +7,7 @@ function TopSection() {
         <span>Hello,</span>
         <h3>I'm Folarin Ajayi</h3>
         <h6>A Full-Stack Web Developer</h6>
+        <br />
         <button
           type="button"
           className="btn btn-read"
