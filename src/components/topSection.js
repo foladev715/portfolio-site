@@ -17,7 +17,7 @@ function TopSection() {
         </button>
       </div>
       <div className="top-section-right">
-        <img src="/profile-picture4.png" alt="" className="profile-picture" />
+        <img src="/profile-picture25.png" alt="" className="profile-picture" />
       </div>
     </div>
   );

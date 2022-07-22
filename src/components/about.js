@@ -11,7 +11,7 @@ function AboutComponent() {
         </p>
         <p>
           I am proficient in front-end and back-end web development and have
-          successfully build dynamic and user-friendly websites and applications
+          successfully built dynamic and user-friendly websites and applications
           using technologies such as HTML, CSS, Bootstrap, Vanilla Javascript,
           React.js, Node.js and MongoDB.
         </p>

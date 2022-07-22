@@ -41,7 +41,7 @@ function Contact() {
     <div className="contact" id="contact-section">
       <h3>Contact Me</h3>
       <section className="mb-6">
-        <p className="text-center w-responsive mx-auto mb-5 contact-text">
+        <p className="text-center w-responsive mx-auto mb-4 contact-text">
           Do you have any questions? Please do not hesitate to contact me
           directly and I will get back to you within 24 hours.
         </p>

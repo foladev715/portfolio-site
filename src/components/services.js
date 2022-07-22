@@ -5,7 +5,6 @@ function Services() {
     <div className="skills" id="skills-section">
       <div className="skills-header">
         <h3>My Skills</h3>
-        <br />
       </div>
       <div className="skills-container">
         <div className="skills-left">

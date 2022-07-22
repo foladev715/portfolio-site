@@ -53,14 +53,14 @@
 }
 
 .top-section-left {
-  padding: 0 20% 0 23%;
-  margin-top: 5%;
+  padding: 5% 20% 0 23%;
+  /* margin-top: 20%; */
 }
 
 .profile-picture {
   height: 100%;
   width: 65%;
-  padding-top: 5%;
+  padding-top: 1%;
 }
 
 .btn-read a {
@@ -107,12 +107,13 @@
 .about-image {
   height: 52%;
   width: 25%;
-  margin-left: -2%;
+  margin-left: -1%;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
 .skills-header {
   text-align: center;
+  margin-bottom: 2%;
 }
 
 .skills-left {
@@ -225,7 +226,7 @@ figcaption {
 
 .testimonials h3 {
   text-align: center;
-  margin-bottom: 2%;
+  margin-bottom: 1.5%;
 }
 
 .testimonial-header {
@@ -289,7 +290,7 @@ figcaption {
 
   .profile-picture {
     height: 100%;
-    width: 80%;
+    width: 90%;
     /* padding-top: 5%; */
   }
 
@@ -379,5 +380,24 @@ figcaption {
     align-items: center;
     padding: 3% 3% 0;
     font-size: 13px;
+  }
+
+  .navbar-brand {
+    font-weight: 600;
+    padding-right: 25%;
+    margin-left: 10%;
+  }
+
+  .testimonials h3 {
+    text-align: center;
+    margin-bottom: 3.5%;
+  }
+
+  .skills-header {
+    text-align: center;
+  }
+
+  .contact h3 {
+    margin-top: 10%;
   }
 }
