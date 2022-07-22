@@ -368,7 +368,16 @@ figcaption {
 
   .project-item {
     margin: 0 1%;
+  }
 
-    /* height: 8rem; */
+  .stats {
+    background-color: #43b5f7;
+    height: 7rem;
+    /* margin: 3% 0; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 3% 3% 0;
+    font-size: 13px;
   }
 }
