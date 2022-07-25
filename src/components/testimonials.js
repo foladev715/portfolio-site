@@ -20,10 +20,16 @@ function Testimonials() {
             </div>
           </div>
           <div className="testimonial-body">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus
-            incidunt qui dolores illum fugiat animi nesciunt commodi nemo
-            tenetur iusto error officiis fuga, tempora beatae sapiente modi
-            vitae velit omnis.
+            I’m writing to recommend Akinfolarin Ajayi for a software developer
+            role. Folarin was among the top 3 best graduating students in a 5
+            months full-stack web development training organized by Gomycode
+            Nigeria. Akinfolarin did an exceptional job on his tasks and
+            projects. He is a careful, proactive, self-motivated, and
+            intelligent team player. It is also worthy to note that he had the
+            2nd most outstanding project presentation on the Project Demo-day
+            organized by Gomycode Nigeria. He will definitely be an exceptional
+            asset to your organization. Please feel free to contact me at
+            uzochukwunwigwe@gmail.com if you have any questions.
           </div>
         </div>
       </div>
