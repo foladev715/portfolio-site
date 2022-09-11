@@ -20,15 +20,18 @@ function Projects() {
           </a>
         </div>
         <div className="project-item">
-          <a href="https://foladev715.github.io/DOM-Project/" target={"_blank"}>
+          <a
+            href="https://lusanno-e-commerce-site.netlify.app/"
+            target={"_blank"}
+          >
             <figure>
               <img
-                src="/shopping-cart-image.jpg"
+                src="/e-commerce-site-image.jpg"
                 alt=""
                 className="project-image"
               />
               <figcaption>
-                Shopping Cart <button class="btn">Visit Site</button>
+                E-Commerce Site <button class="btn">Visit Site</button>
               </figcaption>
             </figure>
           </a>
