@@ -16,8 +16,9 @@ function TopSection() {
           <a href="#about-section">Read More</a>
         </button>
       </div>
+
       <div className="top-section-right">
-        <img src="/profile-picture25.png" alt="" className="profile-picture" />
+        <img src="/profile-picture6.jpg" alt="" className="profile-picture" />
       </div>
     </div>
   );
