@@ -6,7 +6,7 @@ function TopSection() {
       <div className="top-section-left">
         <span>Hello,</span>
         <h3>I'm Folarin Ajayi</h3>
-        <h6>A Full-Stack Web Developer</h6>
+        <span>A Full-Stack Web Developer and Technical Recruiter</span>
         <br />
         <button
           type="button"

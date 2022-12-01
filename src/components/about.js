@@ -24,8 +24,8 @@ function AboutComponent() {
             style={{ backgroundColor: "#43b5f7" }}
           >
             <a
-              href="/Akinfolarin Resume- 2022.pdf"
-              download="Akinfolarin Resume- 2022.pdf"
+              href="/Akinfolarin's Resume_HR_SE.pdf"
+              download="Akinfolarin's Resume_HR_SE.pdf"
             >
               Download Resume
             </a>
