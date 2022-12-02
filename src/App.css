@@ -126,7 +126,7 @@
 .text-block {
   background-color: white;
   color: black;
-  padding: 6.5% 3%;
+  padding: 3% 3%;
   width: 30%;
   margin-left: -2%;
   margin-top: 2.5%;
@@ -135,7 +135,7 @@
 }
 
 .text-block .btn-read {
-  margin-top: 10%;
+  margin-top: 5%;
   font-weight: 500;
 }
 
